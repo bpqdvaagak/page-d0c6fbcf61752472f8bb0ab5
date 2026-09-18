@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "aac68b4f9f06d97d74ace6d8",
+  "owner": "bpqdvaagak",
+  "repo": "page-d0c6fbcf61752472f8bb0ab5",
+  "title": "clash verge服务商官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d0c6fbcf61752472f8bb0ab5",
+      "a": "薯条(SSRCloud)",
+      "b": "clash verge服务商官网",
+      "entity": "薯条(SSRCloud)",
+      "brand": "clash verge服务商官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6f24dca74378b507ea467206a6f756f64c45e7c73470fbcf731f4dcb688304c6",
+      "content": {
+        "primary_entity": "薯条(SSRCloud)",
+        "keyword1": "薯条(SSRCloud)",
+        "keyword2": "clash verge服务商官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择 Clash Verge、Shadowrocket、v2rayN 或 Clash Meta 等客户端，按对应文档导入订阅。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "前往购买链接选择套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开启你的加速体验",
+          "AI_DESCRIPTION": "，薯条(SSRCloud)提供基础版、旗舰版与团队版三档订阅，覆盖 100GB 至 1000GB 月度流量，可同时在线 3 台到 20 台设备。旗舰版搭载 IPLC 专线并支持流媒体与游戏加速，团队版提供 VIP 高带宽节点及定制路由，按年付更划算。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期出发，快速找到适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURE_TEXT_1": "基础版适合 1-3 台设备轻量使用，100GB 月流量覆盖日常浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持 5 台设备，300GB 流量搭配 IPLC 专线与全节点流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版提供 1000GB 流量与 20 台设备支持，适合小型团队或高带宽需求。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TITLE_2": "按流量与线路选套餐",
+          "AI_FEATURE_TITLE_3": "团队协作高带宽",
+          "AI_GUIDE_INTRO": "三步完成从套餐选择到订阅配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "薯条(SSRCloud)提供多档海外加速订阅，覆盖基础到团队场景，支持 Clash Verge 等主流客户端导入使用。",
+          "AI_HERO_SUBTITLE": "多档订阅灵活选择",
+          "AI_HIGHLIGHT_1": "基础版 100GB 月流量，3 台设备在线",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线，5 台设备 300GB",
+          "AI_HIGHLIGHT_3": "团队版 1000GB 流量，20 台设备支持",
+          "AI_PLANS_INTRO": "三档套餐覆盖不同设备数量与流量需求，按年付可节省费用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版或团队版中选择订阅。",
+          "AI_STEP_TEXT_2": "确认设备系统并查看对应客户端的适配要求，如 Clash Verge 或 Shadowrocket。",
+          "AI_STEP_TEXT_3": "在客户端文档中按指引导入订阅地址，完成节点配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "薯条(SSRCloud)海外加速",
+          "AI_FAQ_ANSWER_1": "基础版提供每月 100GB 流量与 3 台设备；旗舰版每月 300GB 流量与 5 台设备；团队版每月 1000GB 流量与 20 台设备，可按使用规模选择。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台设备，团队版支持 20 台设备。多人共用或设备较多时，建议选用旗舰版或团队版。",
+          "AI_FAQ_ANSWER_3": "按年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比月付可节省一定费用，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_4": "根据设备系统选择适配客户端，复制订阅地址后在客户端中导入，保存并更新节点即可连接使用。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化与 7x24 优先工单支持，适合对延迟和稳定性有更高要求的用户。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数量有什么差别？",
+          "AI_FAQ_QUESTION_2": "基础版、旗舰版和团队版分别适合多少台设备？",
+          "AI_FAQ_QUESTION_3": "按年付比按月付划算吗？",
+          "AI_FAQ_QUESTION_4": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版适合游戏加速吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8db3953ddee95e29edfd23b4dc5ec6ead51af3bdd3e057eb8e2a68daf00cbac8",
+    "sitemap.xml": "6dd3fefe7df46314d0482d7d5a6c394e2b1d41a913a88a4f242cbb17aaa1caa7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "91c972fcc9e1a219e530731c898991f71fe6f7d2332ff44b5810ff1d4e50b775"
+}
